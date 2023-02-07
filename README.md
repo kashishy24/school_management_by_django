@@ -38,9 +38,15 @@ The very first function is home which renders all the entries from Attendance, M
 7. Home.html:
 
 
-8. Admin Home Page:
+8. Admin Home Page AdminHome.html:
 
-9. Student Home Page:
+9. Student Home Page studentHome.html: this is the login page which contain navbar
+
+10. AddAttendance page AddAttendance.html :In this page we have 4 column student name ,id,lecture attended,total lecture and a submit button
+
+11. Add Notice Page AddNotice.html: In this page we have created the column to type the message or a submit button .on clicking the button this msg stored the database
+
+12. Add Marks Page AddMarks.html: In this page we have created the 7 attributes student name,id,physics maks, chemistry marks, maths marks, english marks... Now, the user can fill their inforamation and then submit it this information store in database
 
 10. We can see the navigation bar for both the users are different.
 
